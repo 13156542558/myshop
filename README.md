@@ -16,7 +16,9 @@ src/main/resources/templates:前端文件
 2、商城后台：http://8.152.194.103:8080/admin/login
 3、前台用户账户：13700002703  密码：123456  后台账户：admin 密码：123456
 
-下面是本商城的一些注意事项：
+下面是本商城的一些注意事项（重要）：
+
+在进行订单支付流程过程中是不需要进行支付的，直接点击支付完成（重要）
 
 增加商品：（按照步骤一步步来）
 
@@ -25,6 +27,7 @@ src/main/resources/templates:前端文件
 点击保存图片，添加商品图片
 
 <img width="253" alt="image" src="https://github.com/user-attachments/assets/af07a35a-c888-4f6f-8440-4bdf74612097">
+
 
 本商城的删除商品就用作下架商品，可以避免商品的二次上传，减少损失
 
