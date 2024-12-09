@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fac88fcc-3660-4f9e-b7c9-7d42b286421d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ltd/newbee/mall/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ltd/newbee/mall/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ltd/newbee/mall/service/NewBeeMallGoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ltd/newbee/mall/service/NewBeeMallGoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/00000000001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/mall/image/login-logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/mall/image/login_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/mall/image/login_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/mall/image/pay/alipay_qrcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/mall/image/pay/alipay_qrcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/mall/image/pay/wxpay_qrcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/mall/image/pay/wxpay_qrcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/mall/styles/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/mall/styles/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/alipay.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/alipay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/wxpay.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/wxpay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/NewBeeMallApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/NewBeeMallApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/IndexConfigTypeEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/IndexConfigTypeEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/NewBeeMallCategoryLevelEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/NewBeeMallCategoryLevelEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/NewBeeMallException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/NewBeeMallException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/NewBeeMallOrderStatusEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/NewBeeMallOrderStatusEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/PayStatusEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/PayStatusEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/PayTypeEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/PayTypeEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/ServiceResultEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/common/ServiceResultEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/config/NeeBeeMallWebMvcConfigurer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/config/NeeBeeMallWebMvcConfigurer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallCarouselController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallCarouselController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallGoodsCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallGoodsCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallGoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallGoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallGoodsIndexConfigController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallGoodsIndexConfigController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/admin/NewBeeMallUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/common/CommonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/common/CommonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/common/NewBeeMallExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/common/NewBeeMallExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/common/UploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/common/UploadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/vo/NewBeeMallGoodsDetailVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/vo/NewBeeMallGoodsDetailVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/vo/NewBeeMallIndexCarouselVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/controller/vo/NewBeeMallIndexCarouselVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/interceptor/AdminLoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/interceptor/AdminLoginInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/interceptor/NewBeeMallCartNumberInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/interceptor/NewBeeMallCartNumberInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/interceptor/NewBeeMallLoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/interceptor/NewBeeMallLoginInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/JsonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/JsonUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/NewBeeMallUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/NewBeeMallUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/NumberUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/NumberUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/PageQueryUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/PageQueryUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/PageResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/PageResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/PatternUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/PatternUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/ResultGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/ResultGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/SystemUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ltd/newbee/mall/util/SystemUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/mall/image/login-logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/mall/image/login_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/mall/image/login_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/mall/image/pay/alipay_qrcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/mall/image/pay/alipay_qrcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/mall/image/pay/wxpay_qrcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/mall/image/pay/wxpay_qrcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/mall/styles/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/mall/styles/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/newbee_mall_carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/newbee_mall_carousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/mall/alipay.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/mall/alipay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/mall/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/mall/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/mall/wxpay.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/mall/wxpay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/newbee-mall-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/newbee-mall-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/newbee-mall-1.0.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/newbee-mall-1.0.0-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2puEGh6nmBLpLtDv9s3Bv7pfMDv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.footer.html.executor": "Run",
+    "JavaScript Debug.newbee_mall_carousel.html.executor": "Run",
+    "JavaScript Debug.wxpay.html.executor": "Run",
+    "Maven.newbee-mall [clean].executor": "Run",
+    "Maven.newbee-mall [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.NewBeeMallApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/16351/Desktop/springboot网上商城源码",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\16351\Desktop\新建文件夹\springboot网上商城源码\springboot网上商城源码\src\main\resources\static\mall\image\pay" />
+      <recent name="C:\Users\16351\Desktop\新建文件夹\springboot网上商城源码\springboot网上商城源码\src\main\resources\static" />
+      <recent name="C:\Users\16351\Desktop\新建文件夹\springboot网上商城源码\springboot网上商城源码\src\main\resources\static\upload" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\16351\Desktop\新建文件夹\springboot网上商城源码\springboot网上商城源码\src\main\resources\static\mall\image" />
+      <recent name="C:\Users\16351\Desktop\新建文件夹\springboot网上商城源码\springboot网上商城源码\src\main\resources\static\mall\image\pay" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NewBeeMallApplication">
+    <configuration name="footer.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/springboot网上商城源码/newbee-mall/templates/admin/footer.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="newbee_mall_carousel.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/springboot网上商城源码/newbee-mall/templates/admin/newbee_mall_carousel.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="wxpay.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/springboot网上商城源码/src/main/resources/templates/mall/wxpay.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="NewBeeMallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="newbee-mall" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ltd.newbee.mall.NewBeeMallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.wxpay.html" />
+        <item itemvalue="JavaScript Debug.newbee_mall_carousel.html" />
+        <item itemvalue="JavaScript Debug.footer.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fac88fcc-3660-4f9e-b7c9-7d42b286421d" name="Changes" comment="" />
+      <created>1733607465790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733607465790</updated>
+      <workItem from="1733607466839" duration="19597000" />
+      <workItem from="1733659899482" duration="2751000" />
+      <workItem from="1733664777376" duration="588000" />
+      <workItem from="1733667031696" duration="3720000" />
+      <workItem from="1733707753843" duration="1393000" />
+      <workItem from="1733734405522" duration="5640000" />
+      <workItem from="1733750645119" duration="8674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

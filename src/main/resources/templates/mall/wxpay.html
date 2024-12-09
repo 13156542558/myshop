@@ -74,6 +74,7 @@
 <script type="text/javascript">
     function payOrderSuccess() {
         var orderNo = $("#orderNoValue").val();
+        //window.location.href = '/orders/' + orderNo;
         $.ajax({
             type: 'GET',
             url: '/paySuccess?payType=2&orderNo=' + orderNo,
