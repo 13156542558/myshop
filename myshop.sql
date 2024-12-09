@@ -136,6 +136,7 @@ INSERT INTO `tb_newbee_mall_goods_category` VALUES (65, 1, 0, '玩具 孕产 用
 INSERT INTO `tb_newbee_mall_goods_category` VALUES (66, 1, 0, '鞋靴 箱包 配件', 91, 0, '2019-09-12 00:11:30', 0, '2019-09-12 00:11:30', 0);
 INSERT INTO `tb_newbee_mall_goods_category` VALUES (67, 2, 16, '女装', 10, 0, '2019-09-12 00:15:19', 0, '2019-09-12 00:15:19', 0);
 INSERT INTO `tb_newbee_mall_goods_category` VALUES (68, 2, 16, '男装', 9, 0, '2019-09-12 00:15:28', 0, '2019-09-12 00:15:28', 0);
+
 INSERT INTO `tb_newbee_mall_goods_category` VALUES (69, 2, 16, '穿搭', 8, 0, '2019-09-12 00:15:35', 0, '2019-09-12 00:15:35', 0);
 INSERT INTO `tb_newbee_mall_goods_category` VALUES (70, 2, 61, '家具', 10, 0, '2019-09-12 00:20:22', 0, '2019-09-12 00:20:22', 0);
 INSERT INTO `tb_newbee_mall_goods_category` VALUES (71, 2, 61, '家饰', 9, 0, '2019-09-12 00:20:29', 0, '2019-09-12 00:20:29', 0);
@@ -194,7 +195,7 @@ CREATE TABLE `tb_newbee_mall_goods_info`  (
   `original_price` int(11) NOT NULL DEFAULT 1 COMMENT '商品价格',
   `selling_price` int(11) NOT NULL DEFAULT 1 COMMENT '商品实际售价',
   `stock_num` int(11) NOT NULL DEFAULT 0 COMMENT '商品库存数量',
-  `tag` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT '' COMMENT '商品标签',
+  `tag` varchar(200) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT '' COMMENT '商品标签',
   `goods_sell_status` tinyint(4) NOT NULL DEFAULT 0 COMMENT '商品上架状态 0-下架 1-上架',
   `create_user` int(11) NOT NULL DEFAULT 0 COMMENT '添加者主键id',
   `create_time` datetime(0) NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '商品添加时间',
